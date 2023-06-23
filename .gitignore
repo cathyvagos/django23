@@ -1,0 +1,5 @@
+# não incluir o ficheiro ler.txt
+ler.txt
+
+# não incluir todos os ficheiroa txt
+*.txt
